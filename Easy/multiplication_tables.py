@@ -7,3 +7,5 @@ def mult_table(n):
 
 
 mult_table(12)
+
+
